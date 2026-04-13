@@ -172,18 +172,12 @@ kubectl exec -it cassandra-0 -n forensic-lab -- cqlsh -e "SELECT * FROM forensic
 
 ---
 
-### Enable Audit Logs
+### Enabling Audit Logs for extra evidence
 
 kubectl exec cassandra-0 -n forensic-lab -- nodetool enableauditlog --included-keyspaces forensic_lab  
 
 ---
 
-## Key Idea
-
-Traditional forensics works after failure.  
-This project captures evidence before restart happens, which is more useful in container environments.
-
----
 
 ## Summary
 
