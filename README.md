@@ -23,7 +23,7 @@ Flask App → Cassandra → High Load (JMeter) → Monitoring → Trigger → Ev
 
 ## Setup Instructions
 
-### 1️⃣ Build Flask Docker Image
+### Build Flask Docker Image
 
 docker build -t flask-forensic:v1 .
 
