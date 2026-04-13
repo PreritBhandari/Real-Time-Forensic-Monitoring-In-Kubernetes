@@ -1,0 +1,286 @@
+[2026-04-08T08:39:08.513+0000][0.018s][1][120][debug] Minimum heap 536870912  Initial heap 536870912  Maximum heap 536870912
+[2026-04-08T08:39:08.513+0000][0.018s][1][120][trace] 1: Minimum young 134217728  Initial young 134217728  Maximum young 134217728
+[2026-04-08T08:39:08.513+0000][0.018s][1][120][trace] Minimum old 65536  Initial old 402653184  Maximum old 402653184
+[2026-04-08T08:39:08.514+0000][0.018s][1][120][trace] Trying to allocate at address 0x00000000e0000000 heap of size 0x20000000
+[2026-04-08T08:39:08.817+0000][0.322s][1][120][info ] Using Concurrent Mark Sweep
+[2026-04-08T08:39:08.817+0000][0.322s][1][120][info ] Heap address: 0x00000000e0000000, size: 512 MB, Compressed Oops mode: 32-bit
+[2026-04-08T08:39:09.276+0000][0.781s][1][123][info ] Application time: 0.2660597 seconds
+[2026-04-08T08:39:09.276+0000][0.781s][1][123][info ] Entering safepoint region: Deoptimize
+[2026-04-08T08:39:09.276+0000][0.781s][1][123][info ] Leaving safepoint region
+[2026-04-08T08:39:09.276+0000][0.781s][1][123][info ] Total time for which application threads were stopped: 0.0001365 seconds, Stopping threads took: 0.0000090 seconds
+[2026-04-08T08:39:09.281+0000][0.785s][1][123][info ] Application time: 0.0044006 seconds
+[2026-04-08T08:39:09.281+0000][0.785s][1][123][info ] Entering safepoint region: Deoptimize
+[2026-04-08T08:39:09.281+0000][0.785s][1][123][info ] Leaving safepoint region
+[2026-04-08T08:39:09.281+0000][0.785s][1][123][info ] Total time for which application threads were stopped: 0.0001008 seconds, Stopping threads took: 0.0000077 seconds
+[2026-04-08T08:39:10.078+0000][1.583s][1][123][info ] Application time: 0.7974105 seconds
+[2026-04-08T08:39:10.078+0000][1.583s][1][123][info ] Entering safepoint region: ICBufferFull
+[2026-04-08T08:39:10.078+0000][1.583s][1][123][info ] Leaving safepoint region
+[2026-04-08T08:39:10.078+0000][1.583s][1][123][info ] Total time for which application threads were stopped: 0.0000791 seconds, Stopping threads took: 0.0000046 seconds
+[2026-04-08T08:39:10.226+0000][1.731s][1][123][info ] Application time: 0.1477954 seconds
+[2026-04-08T08:39:10.226+0000][1.731s][1][123][info ] Entering safepoint region: Deoptimize
+[2026-04-08T08:39:10.227+0000][1.731s][1][123][info ] Leaving safepoint region
+[2026-04-08T08:39:10.227+0000][1.731s][1][123][info ] Total time for which application threads were stopped: 0.0004856 seconds, Stopping threads took: 0.0000110 seconds
+[2026-04-08T08:39:10.287+0000][1.791s][1][123][info ] Application time: 0.0602773 seconds
+[2026-04-08T08:39:10.287+0000][1.792s][1][123][info ] Entering safepoint region: Deoptimize
+[2026-04-08T08:39:10.287+0000][1.792s][1][123][info ] Leaving safepoint region
+[2026-04-08T08:39:10.287+0000][1.792s][1][123][info ] Total time for which application threads were stopped: 0.0002188 seconds, Stopping threads took: 0.0000091 seconds
+[2026-04-08T08:39:10.717+0000][2.221s][1][123][info ] Application time: 0.4293293 seconds
+[2026-04-08T08:39:10.717+0000][2.221s][1][123][info ] Entering safepoint region: Deoptimize
+[2026-04-08T08:39:10.717+0000][2.221s][1][123][info ] Leaving safepoint region
+[2026-04-08T08:39:10.717+0000][2.221s][1][123][info ] Total time for which application threads were stopped: 0.0002332 seconds, Stopping threads took: 0.0000051 seconds
+[2026-04-08T08:39:10.724+0000][2.228s][1][123][info ] Application time: 0.0068569 seconds
+[2026-04-08T08:39:10.724+0000][2.228s][1][123][info ] Entering safepoint region: Deoptimize
+[2026-04-08T08:39:10.724+0000][2.228s][1][123][info ] Leaving safepoint region
+[2026-04-08T08:39:10.724+0000][2.228s][1][123][info ] Total time for which application threads were stopped: 0.0002135 seconds, Stopping threads took: 0.0000075 seconds
+[2026-04-08T08:39:10.724+0000][2.229s][1][123][info ] Application time: 0.0002610 seconds
+[2026-04-08T08:39:10.724+0000][2.229s][1][123][info ] Entering safepoint region: Deoptimize
+[2026-04-08T08:39:10.724+0000][2.229s][1][123][info ] Leaving safepoint region
+[2026-04-08T08:39:10.724+0000][2.229s][1][123][info ] Total time for which application threads were stopped: 0.0001337 seconds, Stopping threads took: 0.0000048 seconds
+[2026-04-08T08:39:10.748+0000][2.253s][1][123][info ] Application time: 0.0237064 seconds
+[2026-04-08T08:39:10.748+0000][2.253s][1][123][info ] Entering safepoint region: Deoptimize
+[2026-04-08T08:39:10.748+0000][2.253s][1][123][info ] Leaving safepoint region
+[2026-04-08T08:39:10.748+0000][2.253s][1][123][info ] Total time for which application threads were stopped: 0.0002154 seconds, Stopping threads took: 0.0000060 seconds
+[2026-04-08T08:39:10.786+0000][2.291s][1][123][info ] Application time: 0.0377394 seconds
+[2026-04-08T08:39:10.786+0000][2.291s][1][123][info ] Entering safepoint region: Deoptimize
+[2026-04-08T08:39:10.786+0000][2.291s][1][123][info ] Leaving safepoint region
+[2026-04-08T08:39:10.786+0000][2.291s][1][123][info ] Total time for which application threads were stopped: 0.0002085 seconds, Stopping threads took: 0.0000056 seconds
+[2026-04-08T08:39:10.834+0000][2.338s][1][123][info ] Application time: 0.0476028 seconds
+[2026-04-08T08:39:10.834+0000][2.338s][1][123][info ] Entering safepoint region: Deoptimize
+[2026-04-08T08:39:10.834+0000][2.339s][1][123][info ] Leaving safepoint region
+[2026-04-08T08:39:10.834+0000][2.339s][1][123][info ] Total time for which application threads were stopped: 0.0002451 seconds, Stopping threads took: 0.0000061 seconds
+[2026-04-08T08:39:11.210+0000][2.715s][1][123][info ] Application time: 0.3760498 seconds
+[2026-04-08T08:39:11.210+0000][2.715s][1][123][info ] Entering safepoint region: GenCollectForAllocation
+[2026-04-08T08:39:11.210+0000][2.715s][1][123][debug] GC(0) Heap before GC invocations=0 (full 0): par new generation   total 118016K, used 104960K [0x00000000e0000000, 0x00000000e8000000, 0x00000000e8000000)
+[2026-04-08T08:39:11.210+0000][2.715s][1][123][debug] GC(0)   eden space 104960K, 100% used [0x00000000e0000000, 0x00000000e6680000, 0x00000000e6680000)
+[2026-04-08T08:39:11.210+0000][2.715s][1][123][debug] GC(0)   from space 13056K,   0% used [0x00000000e6680000, 0x00000000e6680000, 0x00000000e7340000)
+[2026-04-08T08:39:11.210+0000][2.715s][1][123][debug] GC(0)   to   space 13056K,   0% used [0x00000000e7340000, 0x00000000e7340000, 0x00000000e8000000)
+[2026-04-08T08:39:11.210+0000][2.715s][1][123][debug] GC(0)  concurrent mark-sweep generation total 393216K, used 0K [0x00000000e8000000, 0x0000000100000000, 0x0000000100000000)
+[2026-04-08T08:39:11.210+0000][2.715s][1][123][debug] GC(0)  Metaspace       used 20521K, capacity 21119K, committed 21296K, reserved 1069056K
+[2026-04-08T08:39:11.210+0000][2.715s][1][123][debug] GC(0)   class space    used 2410K, capacity 2641K, committed 2688K, reserved 1048576K
+[2026-04-08T08:39:11.211+0000][2.715s][1][123][trace] CMS: promo attempt is safe: available(402653184) >= av_promo(0), max_promo(107479040)
+[2026-04-08T08:39:11.225+0000][2.729s][1][123][debug] GC(0) Desired survivor size 6684672 bytes, new threshold 1 (max threshold 1)
+[2026-04-08T08:39:11.225+0000][2.729s][1][123][info ] GC(0) ParNew: 104960K->10505K(118016K)
+[2026-04-08T08:39:11.225+0000][2.729s][1][123][info ] GC(0) CMS: 0K->0K(393216K)
+[2026-04-08T08:39:11.225+0000][2.729s][1][123][info ] GC(0) Pause Young (Allocation Failure) 102M->10M(499M) 14.500ms
+[2026-04-08T08:39:11.225+0000][2.729s][1][123][debug] GC(0) Heap after GC invocations=1 (full 0): par new generation   total 118016K, used 10505K [0x00000000e0000000, 0x00000000e8000000, 0x00000000e8000000)
+[2026-04-08T08:39:11.225+0000][2.730s][1][123][debug] GC(0)   eden space 104960K,   0% used [0x00000000e0000000, 0x00000000e0000000, 0x00000000e6680000)
+[2026-04-08T08:39:11.225+0000][2.730s][1][123][debug] GC(0)   from space 13056K,  80% used [0x00000000e7340000, 0x00000000e7d82460, 0x00000000e8000000)
+[2026-04-08T08:39:11.225+0000][2.730s][1][123][debug] GC(0)   to   space 13056K,   0% used [0x00000000e6680000, 0x00000000e6680000, 0x00000000e7340000)
+[2026-04-08T08:39:11.225+0000][2.730s][1][123][debug] GC(0)  concurrent mark-sweep generation total 393216K, used 0K [0x00000000e8000000, 0x0000000100000000, 0x0000000100000000)
+[2026-04-08T08:39:11.225+0000][2.730s][1][123][debug] GC(0)  Metaspace       used 20521K, capacity 21119K, committed 21296K, reserved 1069056K
+[2026-04-08T08:39:11.225+0000][2.730s][1][123][debug] GC(0)   class space    used 2410K, capacity 2641K, committed 2688K, reserved 1048576K
+[2026-04-08T08:39:11.225+0000][2.730s][1][123][info ] Leaving safepoint region
+[2026-04-08T08:39:11.225+0000][2.730s][1][123][info ] Total time for which application threads were stopped: 0.0148782 seconds, Stopping threads took: 0.0000073 seconds
+[2026-04-08T08:39:11.225+0000][2.730s][1][122][trace] CMS: promo attempt is safe: available(402653184) >= av_promo(0), max_promo(10757248)
+[2026-04-08T08:39:11.237+0000][2.742s][1][123][info ] Application time: 0.0118791 seconds
+[2026-04-08T08:39:11.270+0000][2.775s][1][123][info ] Entering safepoint region: CollectForMetadataAllocation
+[2026-04-08T08:39:11.271+0000][2.775s][1][123][info ] Leaving safepoint region
+[2026-04-08T08:39:11.271+0000][2.775s][1][123][info ] Total time for which application threads were stopped: 0.0335656 seconds, Stopping threads took: 0.0332122 seconds
+[2026-04-08T08:39:11.278+0000][2.783s][1][123][info ] Application time: 0.0074863 seconds
+[2026-04-08T08:39:11.278+0000][2.783s][1][123][info ] Entering safepoint region: CollectForMetadataAllocation
+[2026-04-08T08:39:11.278+0000][2.783s][1][123][info ] Leaving safepoint region
+[2026-04-08T08:39:11.278+0000][2.783s][1][123][info ] Total time for which application threads were stopped: 0.0003115 seconds, Stopping threads took: 0.0000283 seconds
+[2026-04-08T08:39:11.319+0000][2.823s][1][123][info ] Application time: 0.0401393 seconds
+[2026-04-08T08:39:11.319+0000][2.823s][1][123][info ] Entering safepoint region: CollectForMetadataAllocation
+[2026-04-08T08:39:11.319+0000][2.824s][1][123][info ] Leaving safepoint region
+[2026-04-08T08:39:11.319+0000][2.824s][1][123][info ] Total time for which application threads were stopped: 0.0003428 seconds, Stopping threads took: 0.0000867 seconds
+[2026-04-08T08:39:11.319+0000][2.824s][1][123][info ] Application time: 0.0001635 seconds
+[2026-04-08T08:39:11.319+0000][2.824s][1][123][info ] Entering safepoint region: CollectForMetadataAllocation
+[2026-04-08T08:39:11.319+0000][2.824s][1][123][info ] Leaving safepoint region
+[2026-04-08T08:39:11.319+0000][2.824s][1][123][info ] Total time for which application threads were stopped: 0.0000936 seconds, Stopping threads took: 0.0000679 seconds
+[2026-04-08T08:39:11.381+0000][2.885s][1][123][info ] Application time: 0.0612868 seconds
+[2026-04-08T08:39:11.381+0000][2.885s][1][123][info ] Entering safepoint region: CollectForMetadataAllocation
+[2026-04-08T08:39:11.381+0000][2.886s][1][123][info ] Leaving safepoint region
+[2026-04-08T08:39:11.381+0000][2.886s][1][123][info ] Total time for which application threads were stopped: 0.0003341 seconds, Stopping threads took: 0.0000134 seconds
+[2026-04-08T08:39:11.423+0000][2.927s][1][123][info ] Application time: 0.0417171 seconds
+[2026-04-08T08:39:11.423+0000][2.927s][1][123][info ] Entering safepoint region: CollectForMetadataAllocation
+[2026-04-08T08:39:11.423+0000][2.928s][1][123][info ] Leaving safepoint region
+[2026-04-08T08:39:11.423+0000][2.928s][1][123][info ] Total time for which application threads were stopped: 0.0002943 seconds, Stopping threads took: 0.0000354 seconds
+[2026-04-08T08:39:11.482+0000][2.986s][1][123][info ] Application time: 0.0585149 seconds
+[2026-04-08T08:39:11.482+0000][2.986s][1][123][info ] Entering safepoint region: CollectForMetadataAllocation
+[2026-04-08T08:39:11.482+0000][2.986s][1][123][info ] Leaving safepoint region
+[2026-04-08T08:39:11.482+0000][2.986s][1][123][info ] Total time for which application threads were stopped: 0.0002010 seconds, Stopping threads took: 0.0000078 seconds
+[2026-04-08T08:39:11.514+0000][3.019s][1][123][info ] Application time: 0.0325714 seconds
+[2026-04-08T08:39:11.515+0000][3.019s][1][123][info ] Entering safepoint region: CollectForMetadataAllocation
+[2026-04-08T08:39:11.515+0000][3.019s][1][123][info ] Leaving safepoint region
+[2026-04-08T08:39:11.515+0000][3.019s][1][123][info ] Total time for which application threads were stopped: 0.0002764 seconds, Stopping threads took: 0.0000908 seconds
+[2026-04-08T08:39:11.612+0000][3.116s][1][123][info ] Application time: 0.0970005 seconds
+[2026-04-08T08:39:11.612+0000][3.116s][1][123][info ] Entering safepoint region: CollectForMetadataAllocation
+[2026-04-08T08:39:11.612+0000][3.117s][1][123][info ] Leaving safepoint region
+[2026-04-08T08:39:11.612+0000][3.117s][1][123][info ] Total time for which application threads were stopped: 0.0002857 seconds, Stopping threads took: 0.0000109 seconds
+[2026-04-08T08:39:11.617+0000][3.121s][1][123][info ] Application time: 0.0045805 seconds
+[2026-04-08T08:39:11.617+0000][3.121s][1][123][info ] Entering safepoint region: Deoptimize
+[2026-04-08T08:39:11.617+0000][3.122s][1][123][info ] Leaving safepoint region
+[2026-04-08T08:39:11.617+0000][3.122s][1][123][info ] Total time for which application threads were stopped: 0.0003621 seconds, Stopping threads took: 0.0000101 seconds
+[2026-04-08T08:39:11.670+0000][3.175s][1][123][info ] Application time: 0.0531064 seconds
+[2026-04-08T08:39:11.670+0000][3.175s][1][123][info ] Entering safepoint region: CollectForMetadataAllocation
+[2026-04-08T08:39:11.670+0000][3.175s][1][123][info ] Leaving safepoint region
+[2026-04-08T08:39:11.670+0000][3.175s][1][123][info ] Total time for which application threads were stopped: 0.0001890 seconds, Stopping threads took: 0.0000087 seconds
+[2026-04-08T08:39:11.671+0000][3.175s][1][123][info ] Application time: 0.0002153 seconds
+[2026-04-08T08:39:11.671+0000][3.175s][1][123][info ] Entering safepoint region: CollectForMetadataAllocation
+[2026-04-08T08:39:11.671+0000][3.175s][1][123][info ] Leaving safepoint region
+[2026-04-08T08:39:11.671+0000][3.175s][1][123][info ] Total time for which application threads were stopped: 0.0001270 seconds, Stopping threads took: 0.0000979 seconds
+[2026-04-08T08:39:11.671+0000][3.175s][1][123][info ] Application time: 0.0001422 seconds
+[2026-04-08T08:39:11.671+0000][3.176s][1][123][info ] Entering safepoint region: CollectForMetadataAllocation
+[2026-04-08T08:39:11.671+0000][3.176s][1][123][info ] Leaving safepoint region
+[2026-04-08T08:39:11.671+0000][3.176s][1][123][info ] Total time for which application threads were stopped: 0.0001558 seconds, Stopping threads took: 0.0001320 seconds
+[2026-04-08T08:39:11.676+0000][3.180s][1][123][info ] Application time: 0.0047551 seconds
+[2026-04-08T08:39:11.676+0000][3.180s][1][123][info ] Entering safepoint region: Deoptimize
+[2026-04-08T08:39:11.676+0000][3.181s][1][123][info ] Leaving safepoint region
+[2026-04-08T08:39:11.676+0000][3.181s][1][123][info ] Total time for which application threads were stopped: 0.0002960 seconds, Stopping threads took: 0.0000066 seconds
+[2026-04-08T08:39:11.677+0000][3.182s][1][123][info ] Application time: 0.0009247 seconds
+[2026-04-08T08:39:11.677+0000][3.182s][1][123][info ] Entering safepoint region: CollectForMetadataAllocation
+[2026-04-08T08:39:11.677+0000][3.182s][1][123][info ] Leaving safepoint region
+[2026-04-08T08:39:11.677+0000][3.182s][1][123][info ] Total time for which application threads were stopped: 0.0001840 seconds, Stopping threads took: 0.0000059 seconds
+[2026-04-08T08:39:11.678+0000][3.182s][1][123][info ] Application time: 0.0001641 seconds
+[2026-04-08T08:39:11.678+0000][3.182s][1][123][info ] Entering safepoint region: CollectForMetadataAllocation
+[2026-04-08T08:39:11.678+0000][3.182s][1][123][info ] Leaving safepoint region
+[2026-04-08T08:39:11.678+0000][3.182s][1][123][info ] Total time for which application threads were stopped: 0.0000231 seconds, Stopping threads took: 0.0000052 seconds
+[2026-04-08T08:39:11.678+0000][3.182s][1][123][info ] Application time: 0.0000991 seconds
+[2026-04-08T08:39:11.678+0000][3.182s][1][123][info ] Entering safepoint region: CollectForMetadataAllocation
+[2026-04-08T08:39:11.678+0000][3.182s][1][123][info ] Leaving safepoint region
+[2026-04-08T08:39:11.678+0000][3.182s][1][123][info ] Total time for which application threads were stopped: 0.0000292 seconds, Stopping threads took: 0.0000123 seconds
+[2026-04-08T08:39:11.713+0000][3.218s][1][123][info ] Application time: 0.0352910 seconds
+[2026-04-08T08:39:11.713+0000][3.218s][1][123][info ] Entering safepoint region: CollectForMetadataAllocation
+[2026-04-08T08:39:11.713+0000][3.218s][1][123][info ] Leaving safepoint region
+[2026-04-08T08:39:11.713+0000][3.218s][1][123][info ] Total time for which application threads were stopped: 0.0003390 seconds, Stopping threads took: 0.0000136 seconds
+[2026-04-08T08:39:11.723+0000][3.228s][1][123][info ] Application time: 0.0095732 seconds
+[2026-04-08T08:39:11.723+0000][3.228s][1][123][info ] Entering safepoint region: Deoptimize
+[2026-04-08T08:39:11.723+0000][3.228s][1][123][info ] Leaving safepoint region
+[2026-04-08T08:39:11.723+0000][3.228s][1][123][info ] Total time for which application threads were stopped: 0.0002641 seconds, Stopping threads took: 0.0000070 seconds
+[2026-04-08T08:39:11.772+0000][3.277s][1][123][info ] Application time: 0.0486515 seconds
+[2026-04-08T08:39:11.772+0000][3.277s][1][123][info ] Entering safepoint region: CollectForMetadataAllocation
+[2026-04-08T08:39:11.772+0000][3.277s][1][123][info ] Leaving safepoint region
+[2026-04-08T08:39:11.772+0000][3.277s][1][123][info ] Total time for which application threads were stopped: 0.0003536 seconds, Stopping threads took: 0.0000769 seconds
+[2026-04-08T08:39:11.811+0000][3.315s][1][123][info ] Application time: 0.0381766 seconds
+[2026-04-08T08:39:11.811+0000][3.315s][1][123][info ] Entering safepoint region: CollectForMetadataAllocation
+[2026-04-08T08:39:11.811+0000][3.315s][1][123][info ] Leaving safepoint region
+[2026-04-08T08:39:11.811+0000][3.315s][1][123][info ] Total time for which application threads were stopped: 0.0003046 seconds, Stopping threads took: 0.0000410 seconds
+[2026-04-08T08:39:12.213+0000][3.718s][1][123][info ] Application time: 0.4021510 seconds
+[2026-04-08T08:39:12.213+0000][3.718s][1][123][info ] Entering safepoint region: CollectForMetadataAllocation
+[2026-04-08T08:39:12.213+0000][3.718s][1][123][info ] Leaving safepoint region
+[2026-04-08T08:39:12.213+0000][3.718s][1][123][info ] Total time for which application threads were stopped: 0.0001793 seconds, Stopping threads took: 0.0000243 seconds
+[2026-04-08T08:39:12.276+0000][3.780s][1][123][info ] Application time: 0.0626537 seconds
+[2026-04-08T08:39:12.276+0000][3.781s][1][123][info ] Entering safepoint region: CollectForMetadataAllocation
+[2026-04-08T08:39:12.277+0000][3.781s][1][123][info ] Leaving safepoint region
+[2026-04-08T08:39:12.277+0000][3.781s][1][123][info ] Total time for which application threads were stopped: 0.0005872 seconds, Stopping threads took: 0.0002990 seconds
+[2026-04-08T08:39:12.415+0000][3.919s][1][123][info ] Application time: 0.1379596 seconds
+[2026-04-08T08:39:12.415+0000][3.919s][1][123][info ] Entering safepoint region: CollectForMetadataAllocation
+[2026-04-08T08:39:12.415+0000][3.919s][1][123][info ] Leaving safepoint region
+[2026-04-08T08:39:12.415+0000][3.919s][1][123][info ] Total time for which application threads were stopped: 0.0003120 seconds, Stopping threads took: 0.0000261 seconds
+[2026-04-08T08:39:12.476+0000][3.980s][1][123][info ] Application time: 0.0610491 seconds
+[2026-04-08T08:39:12.476+0000][3.980s][1][123][info ] Entering safepoint region: CollectForMetadataAllocation
+[2026-04-08T08:39:12.476+0000][3.981s][1][123][info ] Leaving safepoint region
+[2026-04-08T08:39:12.476+0000][3.981s][1][123][info ] Total time for which application threads were stopped: 0.0004450 seconds, Stopping threads took: 0.0000092 seconds
+[2026-04-08T08:39:12.571+0000][4.076s][1][123][info ] Application time: 0.0946463 seconds
+[2026-04-08T08:39:12.571+0000][4.076s][1][123][info ] Entering safepoint region: Deoptimize
+[2026-04-08T08:39:12.572+0000][4.076s][1][123][info ] Leaving safepoint region
+[2026-04-08T08:39:12.572+0000][4.076s][1][123][info ] Total time for which application threads were stopped: 0.0005066 seconds, Stopping threads took: 0.0000202 seconds
+[2026-04-08T08:39:12.616+0000][4.120s][1][123][info ] Application time: 0.0440505 seconds
+[2026-04-08T08:39:12.616+0000][4.120s][1][123][info ] Entering safepoint region: CollectForMetadataAllocation
+[2026-04-08T08:39:12.617+0000][4.121s][1][123][info ] Leaving safepoint region
+[2026-04-08T08:39:12.617+0000][4.121s][1][123][info ] Total time for which application threads were stopped: 0.0008109 seconds, Stopping threads took: 0.0000292 seconds
+[2026-04-08T08:39:12.815+0000][4.320s][1][123][info ] Application time: 0.1983383 seconds
+[2026-04-08T08:39:12.815+0000][4.320s][1][123][info ] Entering safepoint region: CollectForMetadataAllocation
+[2026-04-08T08:39:12.817+0000][4.321s][1][123][info ] Leaving safepoint region
+[2026-04-08T08:39:12.817+0000][4.321s][1][123][info ] Total time for which application threads were stopped: 0.0016407 seconds, Stopping threads took: 0.0000136 seconds
+[2026-04-08T08:39:13.014+0000][4.518s][1][123][info ] Application time: 0.1971840 seconds
+[2026-04-08T08:39:13.014+0000][4.518s][1][123][info ] Entering safepoint region: CollectForMetadataAllocation
+[2026-04-08T08:39:13.014+0000][4.519s][1][123][info ] Leaving safepoint region
+[2026-04-08T08:39:13.014+0000][4.519s][1][123][info ] Total time for which application threads were stopped: 0.0003791 seconds, Stopping threads took: 0.0000156 seconds
+[2026-04-08T08:39:13.119+0000][4.624s][1][123][info ] Application time: 0.1046313 seconds
+[2026-04-08T08:39:13.119+0000][4.624s][1][123][info ] Entering safepoint region: CollectForMetadataAllocation
+[2026-04-08T08:39:13.119+0000][4.624s][1][123][info ] Leaving safepoint region
+[2026-04-08T08:39:13.119+0000][4.624s][1][123][info ] Total time for which application threads were stopped: 0.0003911 seconds, Stopping threads took: 0.0000110 seconds
+[2026-04-08T08:39:13.179+0000][4.684s][1][123][info ] Application time: 0.0600654 seconds
+[2026-04-08T08:39:13.180+0000][4.684s][1][123][info ] Entering safepoint region: CollectForMetadataAllocation
+[2026-04-08T08:39:13.180+0000][4.684s][1][123][info ] Leaving safepoint region
+[2026-04-08T08:39:13.180+0000][4.684s][1][123][info ] Total time for which application threads were stopped: 0.0003294 seconds, Stopping threads took: 0.0000134 seconds
+[2026-04-08T08:39:13.410+0000][4.915s][1][123][info ] Application time: 0.2303132 seconds
+[2026-04-08T08:39:13.410+0000][4.915s][1][123][info ] Entering safepoint region: CollectForMetadataAllocation
+[2026-04-08T08:39:13.411+0000][4.916s][1][123][info ] Leaving safepoint region
+[2026-04-08T08:39:13.411+0000][4.916s][1][123][info ] Total time for which application threads were stopped: 0.0009213 seconds, Stopping threads took: 0.0000155 seconds
+[2026-04-08T08:39:13.517+0000][5.021s][1][123][info ] Application time: 0.1054838 seconds
+[2026-04-08T08:39:13.517+0000][5.021s][1][123][info ] Entering safepoint region: CollectForMetadataAllocation
+[2026-04-08T08:39:13.517+0000][5.022s][1][123][info ] Leaving safepoint region
+[2026-04-08T08:39:13.517+0000][5.022s][1][123][info ] Total time for which application threads were stopped: 0.0006800 seconds, Stopping threads took: 0.0000464 seconds
+[2026-04-08T08:39:13.615+0000][5.120s][1][123][info ] Application time: 0.0978564 seconds
+[2026-04-08T08:39:13.615+0000][5.120s][1][123][info ] Entering safepoint region: CollectForMetadataAllocation
+[2026-04-08T08:39:13.616+0000][5.120s][1][123][info ] Leaving safepoint region
+[2026-04-08T08:39:13.616+0000][5.120s][1][123][info ] Total time for which application threads were stopped: 0.0002527 seconds, Stopping threads took: 0.0000080 seconds
+[2026-04-08T08:39:13.671+0000][5.175s][1][123][info ] Application time: 0.0553516 seconds
+[2026-04-08T08:39:13.671+0000][5.175s][1][123][info ] Entering safepoint region: CollectForMetadataAllocation
+[2026-04-08T08:39:13.671+0000][5.176s][1][123][info ] Leaving safepoint region
+[2026-04-08T08:39:13.671+0000][5.176s][1][123][info ] Total time for which application threads were stopped: 0.0003020 seconds, Stopping threads took: 0.0000081 seconds
+[2026-04-08T08:39:13.713+0000][5.218s][1][123][info ] Application time: 0.0422732 seconds
+[2026-04-08T08:39:13.714+0000][5.218s][1][123][info ] Entering safepoint region: CollectForMetadataAllocation
+[2026-04-08T08:39:13.714+0000][5.219s][1][123][info ] Leaving safepoint region
+[2026-04-08T08:39:13.714+0000][5.219s][1][123][info ] Total time for which application threads were stopped: 0.0007191 seconds, Stopping threads took: 0.0000331 seconds
+[2026-04-08T08:39:13.912+0000][5.416s][1][123][info ] Application time: 0.1976070 seconds
+[2026-04-08T08:39:13.912+0000][5.416s][1][123][info ] Entering safepoint region: CollectForMetadataAllocation
+[2026-04-08T08:39:13.912+0000][5.417s][1][123][info ] Leaving safepoint region
+[2026-04-08T08:39:13.912+0000][5.417s][1][123][info ] Total time for which application threads were stopped: 0.0003488 seconds, Stopping threads took: 0.0000080 seconds
+[2026-04-08T08:39:13.928+0000][5.433s][1][123][info ] Application time: 0.0157161 seconds
+[2026-04-08T08:39:13.928+0000][5.433s][1][123][info ] Entering safepoint region: CollectForMetadataAllocation
+[2026-04-08T08:39:13.928+0000][5.433s][1][123][info ] Leaving safepoint region
+[2026-04-08T08:39:13.928+0000][5.433s][1][123][info ] Total time for which application threads were stopped: 0.0003313 seconds, Stopping threads took: 0.0000099 seconds
+[2026-04-08T08:39:13.989+0000][5.494s][1][123][info ] Application time: 0.0606023 seconds
+[2026-04-08T08:39:13.989+0000][5.494s][1][123][info ] Entering safepoint region: Deoptimize
+[2026-04-08T08:39:13.989+0000][5.494s][1][123][info ] Leaving safepoint region
+[2026-04-08T08:39:13.989+0000][5.494s][1][123][info ] Total time for which application threads were stopped: 0.0004327 seconds, Stopping threads took: 0.0000103 seconds
+[2026-04-08T08:39:14.011+0000][5.515s][1][123][info ] Application time: 0.0211591 seconds
+[2026-04-08T08:39:14.011+0000][5.515s][1][123][info ] Entering safepoint region: CollectForMetadataAllocation
+[2026-04-08T08:39:14.011+0000][5.516s][1][123][info ] Leaving safepoint region
+[2026-04-08T08:39:14.011+0000][5.516s][1][123][info ] Total time for which application threads were stopped: 0.0003816 seconds, Stopping threads took: 0.0000086 seconds
+[2026-04-08T08:39:14.011+0000][5.516s][1][123][info ] Application time: 0.0002262 seconds
+[2026-04-08T08:39:14.011+0000][5.516s][1][123][info ] Entering safepoint region: CollectForMetadataAllocation
+[2026-04-08T08:39:14.011+0000][5.516s][1][123][info ] Leaving safepoint region
+[2026-04-08T08:39:14.011+0000][5.516s][1][123][info ] Total time for which application threads were stopped: 0.0001924 seconds, Stopping threads took: 0.0001615 seconds
+[2026-04-08T08:39:14.116+0000][5.620s][1][123][info ] Application time: 0.1041017 seconds
+[2026-04-08T08:39:14.116+0000][5.620s][1][123][info ] Entering safepoint region: CollectForMetadataAllocation
+[2026-04-08T08:39:14.116+0000][5.621s][1][123][info ] Leaving safepoint region
+[2026-04-08T08:39:14.116+0000][5.621s][1][123][info ] Total time for which application threads were stopped: 0.0003764 seconds, Stopping threads took: 0.0000271 seconds
+[2026-04-08T08:39:14.228+0000][5.732s][1][123][info ] Application time: 0.1118465 seconds
+[2026-04-08T08:39:14.228+0000][5.732s][1][123][info ] Entering safepoint region: CollectForMetadataAllocation
+[2026-04-08T08:39:14.228+0000][5.733s][1][123][info ] Leaving safepoint region
+[2026-04-08T08:39:14.228+0000][5.733s][1][123][info ] Total time for which application threads were stopped: 0.0001477 seconds, Stopping threads took: 0.0000076 seconds
+[2026-04-08T08:39:14.280+0000][5.785s][1][123][info ] Application time: 0.0524747 seconds
+[2026-04-08T08:39:14.281+0000][5.785s][1][123][info ] Entering safepoint region: CollectForMetadataAllocation
+[2026-04-08T08:39:14.281+0000][5.785s][1][123][info ] Leaving safepoint region
+[2026-04-08T08:39:14.281+0000][5.785s][1][123][info ] Total time for which application threads were stopped: 0.0002102 seconds, Stopping threads took: 0.0000101 seconds
+[2026-04-08T08:39:14.327+0000][5.832s][1][123][info ] Application time: 0.0466196 seconds
+[2026-04-08T08:39:14.327+0000][5.832s][1][123][info ] Entering safepoint region: CollectForMetadataAllocation
+[2026-04-08T08:39:14.328+0000][5.832s][1][123][info ] Leaving safepoint region
+[2026-04-08T08:39:14.328+0000][5.832s][1][123][info ] Total time for which application threads were stopped: 0.0001506 seconds, Stopping threads took: 0.0000089 seconds
+[2026-04-08T08:39:14.483+0000][5.988s][1][123][info ] Application time: 0.1556258 seconds
+[2026-04-08T08:39:14.483+0000][5.988s][1][123][info ] Entering safepoint region: CollectForMetadataAllocation
+[2026-04-08T08:39:14.483+0000][5.988s][1][123][info ] Leaving safepoint region
+[2026-04-08T08:39:14.483+0000][5.988s][1][123][info ] Total time for which application threads were stopped: 0.0002662 seconds, Stopping threads took: 0.0000088 seconds
+[2026-04-08T08:39:14.520+0000][6.025s][1][123][info ] Application time: 0.0365519 seconds
+[2026-04-08T08:39:14.520+0000][6.025s][1][123][info ] Entering safepoint region: Deoptimize
+[2026-04-08T08:39:14.520+0000][6.025s][1][123][info ] Leaving safepoint region
+[2026-04-08T08:39:14.520+0000][6.025s][1][123][info ] Total time for which application threads were stopped: 0.0003730 seconds, Stopping threads took: 0.0000092 seconds
+[2026-04-08T08:39:14.532+0000][6.037s][1][123][info ] Application time: 0.0115801 seconds
+[2026-04-08T08:39:14.532+0000][6.037s][1][123][info ] Entering safepoint region: CollectForMetadataAllocation
+[2026-04-08T08:39:14.532+0000][6.037s][1][123][info ] Leaving safepoint region
+[2026-04-08T08:39:14.532+0000][6.037s][1][123][info ] Total time for which application threads were stopped: 0.0003349 seconds, Stopping threads took: 0.0000145 seconds
+[2026-04-08T08:39:14.576+0000][6.081s][1][123][info ] Application time: 0.0439870 seconds
+[2026-04-08T08:39:14.576+0000][6.081s][1][123][info ] Entering safepoint region: Deoptimize
+[2026-04-08T08:39:14.577+0000][6.081s][1][123][info ] Leaving safepoint region
+[2026-04-08T08:39:14.577+0000][6.081s][1][123][info ] Total time for which application threads were stopped: 0.0004695 seconds, Stopping threads took: 0.0000101 seconds
+[2026-04-08T08:39:14.586+0000][6.091s][1][123][info ] Application time: 0.0091772 seconds
+[2026-04-08T08:39:14.586+0000][6.091s][1][123][info ] Entering safepoint region: CollectForMetadataAllocation
+[2026-04-08T08:39:14.586+0000][6.091s][1][123][info ] Leaving safepoint region
+[2026-04-08T08:39:14.586+0000][6.091s][1][123][info ] Total time for which application threads were stopped: 0.0002281 seconds, Stopping threads took: 0.0000116 seconds
+[2026-04-08T08:39:14.631+0000][6.136s][1][123][info ] Application time: 0.0449743 seconds
+[2026-04-08T08:39:14.631+0000][6.136s][1][123][info ] Entering safepoint region: CollectForMetadataAllocation
+[2026-04-08T08:39:14.632+0000][6.136s][1][123][info ] Leaving safepoint region
+[2026-04-08T08:39:14.632+0000][6.136s][1][123][info ] Total time for which application threads were stopped: 0.0002886 seconds, Stopping threads took: 0.0000154 seconds
+[2026-04-08T08:39:14.698+0000][6.203s][1][123][info ] Application time: 0.0666173 seconds
+[2026-04-08T08:39:14.698+0000][6.203s][1][123][info ] Entering safepoint region: CollectForMetadataAllocation
+[2026-04-08T08:39:14.699+0000][6.203s][1][123][info ] Leaving safepoint region
+[2026-04-08T08:39:14.699+0000][6.203s][1][123][info ] Total time for which application threads were stopped: 0.0003161 seconds, Stopping threads took: 0.0000154 seconds
+[2026-04-08T08:39:14.776+0000][6.281s][1][123][info ] Application time: 0.0773784 seconds
+[2026-04-08T08:39:14.776+0000][6.281s][1][123][info ] Entering safepoint region: Deoptimize
+[2026-04-08T08:39:14.777+0000][6.281s][1][123][info ] Leaving safepoint region
+[2026-04-08T08:39:14.777+0000][6.281s][1][123][info ] Total time for which application threads were stopped: 0.0005654 seconds, Stopping threads took: 0.0000175 seconds

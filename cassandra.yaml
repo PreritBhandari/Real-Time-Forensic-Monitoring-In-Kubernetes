@@ -1,0 +1,69 @@
+apiVersion: v1
+kind: Service
+metadata:
+  name: cassandra
+  namespace: forensic-lab
+spec:
+  clusterIP: None
+  selector:
+    app: cassandra
+  ports:
+    - name: cql
+      port: 9042
+      targetPort: 9042
+---
+apiVersion: apps/v1
+kind: StatefulSet
+metadata:
+  name: cassandra
+  namespace: forensic-lab
+spec:
+  serviceName: cassandra
+  replicas: 1
+  selector:
+    matchLabels:
+      app: cassandra
+  template:
+    metadata:
+      labels:
+        app: cassandra
+    spec:
+      containers:
+      - name: cassandra
+        image: cassandra:4.1
+        resources:
+          limits:
+            memory: "1100Mi"
+            cpu: "1"
+        livenessProbe:
+          exec:
+            command: ["/bin/bash", "-c", "cqlsh -e 'describe cluster'"]
+          initialDelaySeconds: 30
+          periodSeconds: 20      
+          timeoutSeconds: 15     
+          failureThreshold: 5    
+
+        startupProbe:            
+          exec:
+            command: ["/bin/bash", "-c", "cqlsh -e 'describe cluster'"]
+          initialDelaySeconds: 60
+          periodSeconds: 10
+          failureThreshold: 30   
+        imagePullPolicy: Always
+        ports:
+        - containerPort: 9042
+        env:
+        - name: CASSANDRA_CLUSTER_NAME
+          value: "ForensicLab"
+        - name: CASSANDRA_NUM_TOKENS
+          value: "256"
+        - name: MAX_HEAP_SIZE
+          value: "512M"
+        - name: HEAP_NEWSIZE
+          value: "128M"
+        volumeMounts:
+        - name: cassandra-storage
+          mountPath: /var/lib/cassandra
+      volumes:                   
+      - name: cassandra-storage
+        emptyDir: {}            
